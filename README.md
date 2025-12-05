@@ -15,7 +15,7 @@ En esta agregaremos una pantalla ```LCD 16x2 I2C``` que hará que visualcemos lo
 ![]()
 4. Una vez agregada regresamos a la pestaña de sketch donde agregaremos y conectaremos el ultrasonico y la lcd a la tarjeta y para agregarlo hacemos click en el circulo azul con el simbolo de mas y lo buscamos como ``HC-SR04 Ultrasonic Distance Sensor`` y ``lcd 16x2(l2c)``
 ![]()
-5. Una vez que lo agregamo realizamos la coneccion haciendo click sobre los pines o sobre los puntos amarrillos y lo llebamos a donde lo deceamos conectar
+5. Una vez que lo agregamo realizamos la conexion haciendo click sobre los pines o sobre los puntos amarrillos y lo llebamos a donde lo deceamos conectar
 ![]()
 6. En el sketch colocamos el siguiente codigo:
 
