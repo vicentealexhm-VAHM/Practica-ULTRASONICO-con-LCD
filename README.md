@@ -1,6 +1,6 @@
 # Practica-ULTRASONICO-con-LCD
 ## Descripción
-En esta agregaremos una pantalla ```LCD 16x2 I2C``` que hará que visualcemos los valores datos que queramos tambien agregaremos un ```ultrasonico``` el cual lo utilizaremos para dar lecturas de una distacia, utilizando el simulado de la ESP32 de WOKWI
+En esta practica agregaremos una pantalla ```LCD 16x2 I2C``` que hará que visualicemos los datos que queramos tambien agregaremos un ```ultrasonico``` el cual lo utilizaremos para dar lecturas de una distacia, utilizando el simulado de la ESP32 de WOKWI
 ## Material
 - Tarjeta ```ESP32```
 - Pantalla ```LCD 16x2 I2C```
